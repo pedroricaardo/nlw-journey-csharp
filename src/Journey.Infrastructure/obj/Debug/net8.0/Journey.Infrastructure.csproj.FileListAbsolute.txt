@@ -1,0 +1,12 @@
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.deps.json
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.dll
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.pdb
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfoInputs.cache
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfo.cs
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.CoreCompileInputs.cache
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.sourcelink.json
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.dll
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll

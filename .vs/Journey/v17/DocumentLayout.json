@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|d:\\rocketseat_aplicacoes\\nlw-journey-csharp\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|d:\\rocketseat_aplicacoes\\nlw-journey-csharp\\src\\journey.communication\\requests\\requestregistertripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|solutionrelative:src\\journey.communication\\requests\\requestregistertripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestRegisterTripJson.cs",
+              "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
+              "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
+              "RelativeToolTip": "src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T00:05:47.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T23:58:14.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
