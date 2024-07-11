@@ -10,3 +10,5 @@ D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Exception\obj\Debug\net8
 D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
 D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
 D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.ResourceErrorMessages.resources
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.GenerateResource.cache

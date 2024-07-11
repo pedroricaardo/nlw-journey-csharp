@@ -10,3 +10,4 @@ D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug
 D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
 D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
 D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
+D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
