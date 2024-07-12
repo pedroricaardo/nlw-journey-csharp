@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|d:\\rocketseat_aplicacoes\\nlw-journey-csharp\\src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|solutionrelative:src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|d:\\rocketseat_aplicacoes\\nlw-journey-csharp\\src\\journey.application\\usecases\\trips\\getbyid\\gettripbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\getbyid\\gettripbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|d:\\rocketseat_aplicacoes\\nlw-journey-csharp\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +19,8 @@
       "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\getall\\getalltripsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|d:\\rocketseat_aplicacoes\\nlw-journey-csharp\\src\\journey.communication\\responses\\responsetripsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|solutionrelative:src\\journey.communication\\responses\\responsetripsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|d:\\rocketseat_aplicacoes\\nlw-journey-csharp\\src\\journey.application\\usecases\\trips\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|d:\\rocketseat_aplicacoes\\nlw-journey-csharp\\src\\journey.communication\\responses\\responsetripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|solutionrelative:src\\journey.communication\\responses\\responsetripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResponseTripsJson.cs",
-              "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Communication\\Responses\\ResponseTripsJson.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Communication\\Responses\\ResponseTripsJson.cs",
-              "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Communication\\Responses\\ResponseTripsJson.cs",
-              "RelativeToolTip": "src\\Journey.Communication\\Responses\\ResponseTripsJson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "JourneyDbContext.cs",
+              "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "RelativeToolTip": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T01:40:00.221Z",
+              "WhenOpened": "2024-07-12T00:11:59.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RegisterTripUseCase.cs",
-              "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
-              "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
-              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T01:31:07.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "GetAllTripsUseCase.cs",
               "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
               "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
               "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
               "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T01:29:44.275Z",
+              "WhenOpened": "2024-07-11T23:59:33.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ResponseTripJson.cs",
+              "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Communication\\Responses\\ResponseTripJson.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Communication\\Responses\\ResponseTripJson.cs",
+              "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Communication\\Responses\\ResponseTripJson.cs",
+              "RelativeToolTip": "src\\Journey.Communication\\Responses\\ResponseTripJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:56:21.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTripByIdUseCase.cs",
+              "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Application\\UseCases\\Trips\\GetById\\GetTripByIdUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\GetById\\GetTripByIdUseCase.cs",
+              "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Application\\UseCases\\Trips\\GetById\\GetTripByIdUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\GetById\\GetTripByIdUseCase.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:54:53.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TripsController.cs",
               "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Api\\Controllers\\TripsController.cs",
               "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
               "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Api\\Controllers\\TripsController.cs",
               "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAeAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T23:58:14.888Z",
               "EditorCaption": ""

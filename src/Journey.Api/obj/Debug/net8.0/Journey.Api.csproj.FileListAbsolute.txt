@@ -48,7 +48,6 @@ D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Api\bin\Debug\net8.0\Mic
 D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Api\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
 D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Api\bin\Debug\net8.0\SQLitePCLRaw.core.dll
 D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Api\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
-D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Api\bin\Debug\net8.0\System.Text.Json.dll
 D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Api\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
 D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
 D:\RocketSeat_Aplicacoes\nlw-journey-csharp\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
