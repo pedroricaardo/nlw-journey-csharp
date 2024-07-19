@@ -70,7 +70,7 @@ namespace Journey.Exception {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a A viagem deve terminar após da data de início..
+        ///   Consulta uma cadeia de caracteres localizada semelhante a A viagem deve terminar após a data de início..
         /// </summary>
         public static string END_DATE_TRIP_MUST_BE_LATER_START_DATE {
             get {

@@ -121,7 +121,7 @@
     <value>Viagem não pode ser registrada para uma data passada.</value>
   </data>
   <data name="END_DATE_TRIP_MUST_BE_LATER_START_DATE" xml:space="preserve">
-    <value>A viagem deve terminar após da data de início.</value>
+    <value>A viagem deve terminar após a data de início.</value>
   </data>
   <data name="NAME_EMPTY" xml:space="preserve">
     <value>Nome não pode ser vazio.</value>

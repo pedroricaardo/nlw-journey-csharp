@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|d:\\rocketseat_aplicacoes\\nlw-journey-csharp\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|d:\\rocketseat_aplicacoes\\nlw-journey-csharp\\src\\journey.application\\usecases\\trips\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|d:\\rocketseat_aplicacoes\\nlw-journey-csharp\\src\\journey.application\\usecases\\trips\\delete\\deletetripbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\delete\\deletetripbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|d:\\rocketseat_aplicacoes\\nlw-journey-csharp\\src\\journey.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DeleteTripByIdUseCase.cs",
-              "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
-              "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
-              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Delete\\DeleteTripByIdUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Api\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "src\\Journey.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T00:35:08.344Z",
+              "WhenOpened": "2024-07-19T00:19:16.252Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TripsController.cs",
-              "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Api\\Controllers\\TripsController.cs",
-              "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
-              "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Api\\Controllers\\TripsController.cs",
-              "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowDQAAAA8AAAA",
+              "Title": "RegisterTripUseCase.cs",
+              "DocumentMoniker": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
+              "ToolTip": "D:\\RocketSeat_Aplicacoes\\nlw-journey-csharp\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T00:33:01.083Z",
+              "WhenOpened": "2024-07-18T23:57:04.319Z",
               "EditorCaption": ""
             }
           ]
