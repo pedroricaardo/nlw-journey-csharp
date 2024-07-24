@@ -1,4 +1,7 @@
-﻿using Journey.Application.UseCases.Trips.Delete;
+﻿using Journey.Application.UseCases.Activities.Complete;
+using Journey.Application.UseCases.Activities.Delete;
+using Journey.Application.UseCases.Activities.Register;
+using Journey.Application.UseCases.Trips.Delete;
 using Journey.Application.UseCases.Trips.GetAll;
 using Journey.Application.UseCases.Trips.GetById;
 using Journey.Application.UseCases.Trips.Register;
@@ -14,8 +17,8 @@ namespace Journey.Api.Controllers
     {
         [HttpPost]
         [ProducesResponseType(typeof(ResponseShortTripJson), StatusCodes.Status201Created)]
-        [ProducesResponseType(typeof(string), StatusCodes.Status400BadRequest)]
-        public IActionResult Register([FromBody] RequestRegisterTripJson request)
+        [ProducesResponseType(typeof(ResponseErrosJson), StatusCodes.Status400BadRequest)]
+        public IActionResult RegisterTrip([FromBody] RequestRegisterTripJson request)
         {
                 var useCase = new RegisterTripUseCase();
 
@@ -26,7 +29,7 @@ namespace Journey.Api.Controllers
 
         [HttpGet]
         [ProducesResponseType(typeof(ResponseTripsJson), StatusCodes.Status200OK)]
-        public IActionResult GetAll()
+        public IActionResult GetAllTrips()
         {
             var useCase = new GetAllTripsUseCase();
 
@@ -38,8 +41,8 @@ namespace Journey.Api.Controllers
         [HttpGet]
         [Route("{id}")]
         [ProducesResponseType(typeof(ResponseTripJson), StatusCodes.Status200OK)]
-        [ProducesResponseType(typeof(string), StatusCodes.Status404NotFound)]
-        public IActionResult GetById([FromRoute] Guid id) 
+        [ProducesResponseType(typeof(ResponseErrosJson), StatusCodes.Status404NotFound)]
+        public IActionResult GetTripById([FromRoute] Guid id) 
         {
                 var useCase = new GetTripByIdUseCase();
 
@@ -51,12 +54,52 @@ namespace Journey.Api.Controllers
         [HttpDelete]
         [Route("{id}")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
-        [ProducesResponseType(typeof(string), StatusCodes.Status404NotFound)]
-        public IActionResult Delete([FromRoute] Guid id)
+        [ProducesResponseType(typeof(ResponseErrosJson), StatusCodes.Status404NotFound)]
+        public IActionResult DeleteTrip([FromRoute] Guid id)
         {
             var useCase = new DeleteTripByIdUseCase();
 
             useCase.Execute(id);
+
+            return NoContent();
+        }
+
+        [HttpPost]
+        [Route("{tripId}/activity")]
+        [ProducesResponseType(typeof(ResponseActivityJson), StatusCodes.Status201Created)]
+        [ProducesResponseType(typeof(ResponseErrosJson), StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(typeof(ResponseErrosJson), StatusCodes.Status404NotFound)]
+        public IActionResult RegisterActivity([FromRoute] Guid tripId, [FromBody] RequestRegisterActivityJson request)
+        {
+            var useCase = new RegisterActivityForTripUseCase();
+
+            var response = useCase.Execute(tripId, request);
+
+            return Created();
+        }
+
+        [HttpPut]
+        [Route("{tripId}/activity/{activityId}/complete")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(typeof(ResponseErrosJson), StatusCodes.Status404NotFound)]
+        public IActionResult CompleteActivity([FromRoute] Guid tripId, [FromRoute] Guid activityId)
+        {
+            var useCase = new CompleteActivityForTripUseCase();
+
+            useCase.Execute(tripId, activityId);
+
+            return NoContent();
+        }
+
+        [HttpDelete]
+        [Route("{tripId}/activity/{activityId}")]
+        [ProducesResponseType(StatusCodes.Status204NoContent)]
+        [ProducesResponseType(typeof(ResponseErrosJson), StatusCodes.Status404NotFound)]
+        public IActionResult DeleteActivity([FromRoute] Guid tripId, [FromRoute] Guid activityId)
+        {
+            var useCase = new DeleteActivityForTripUseCase();
+
+            useCase.Execute(tripId, activityId);
 
             return NoContent();
         }
